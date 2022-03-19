@@ -1,0 +1,4 @@
+datapath: './data/dichalcogenides_public'
+test_datapath: './data/dichalcogenides_private'
+model_path: './callback/model.pkl'
+coords_path: './callback/COORDS.pkl'
